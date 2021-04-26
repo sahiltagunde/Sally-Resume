@@ -1,0 +1,30 @@
+body{
+    margin: 0;  
+}
+main{
+    padding: 20px;
+}
+header h1{
+    padding-left: 45%;
+    background-color: gray;
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 3rem;
+}
+.personalInfo{
+  
+    font-size: 1.5rem;
+}
+.education{
+   
+    font-size: 1.5rem;
+}
+.image{
+ width: 300px;
+ height: 200px;   
+}
+.employment{
+    font-size: 1.3rem;
+
+}
